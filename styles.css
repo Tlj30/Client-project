@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    margin: 0; 
+    padding: 0;
+    /* color: white; */
+}
+
+#logo {
+  color: white; 
+  font-family: 'Bungee Shade', cursive; 
+  font-size: 40px;
+}
+
+#nav-bar {
+    color: white;
+    /*  */
+    font-weight: 400;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
